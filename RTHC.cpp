@@ -1,5 +1,5 @@
 /*
-      Title: TEST2
+      Title: Hydroponics Project 6
       Library: RTHC.cpp
       Description: 
       Created Date: January 28, 2015
